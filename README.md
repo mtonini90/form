@@ -6,7 +6,7 @@ Install node_modules
 
 ### `.env`
 
-Create a .env file in the root folder
+Create a .env file in the root folder. \
 In .env file create a variable REACT_APP_TOKEN and store the token taken from https://gorest.co.in
 
 ### `npm start`
